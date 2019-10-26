@@ -1,0 +1,23 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elchin-imanov/HW6.git"
+  },
+  "author": "Elchin Imanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elchin-imanov/HW6/issues"
+  },
+  "homepage": "https://github.com/elchin-imanov/HW6#readme",
+  "dependencies": {
+    "mocha": "6.2.0",
+    "chai": "4.2.0"
+  }
+}
